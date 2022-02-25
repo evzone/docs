@@ -1,0 +1,3 @@
+The TOWBC-2P-T is a DIN rail relay capable to switch high loads up to 63A or 80A. It is branded from Chinese vendor TOMZN and sold in Aliexpress. 
+Although the relay is marked as a 2-pole relay, it uses a single contact to switch only phase L. That is, neutral N is pass-through without switching.
+
